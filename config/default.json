@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://dbAdmin:4Rc1lYPF7chaWI9Q@covidcluster.qyze6.azure.mongodb.net/sample_geospatial?retryWrites=true&w=majority"
+}
